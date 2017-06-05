@@ -3,4 +3,6 @@ I want to edit there file foraway
 
 我是feature1分支啦.
 
-today is Monday,, 修改好的
+
+today is Monday;;
+
